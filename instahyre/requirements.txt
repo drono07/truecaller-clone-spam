@@ -1,0 +1,5 @@
+drf-yasg
+django
+djangorestframework-simplejwt
+psycopg2-binary
+faker
